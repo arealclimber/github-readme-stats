@@ -360,6 +360,12 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+    "Lumii_custom":{
+    title_color: "DAE5D0",
+    icon_color: "1F6FEB",
+    text_color: "C4DDFF",
+    bg_color: "000000",
   }
 };
 
